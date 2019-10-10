@@ -1,7 +1,7 @@
 ---
 title: 'Selcen Cakir'
 website: selcencakir.github.io
-street: Boğaziçi University Department of Economics
+street: Bogazici University Department of Economics
 city: Istanbul
 postcode: 34342
 phone: +90 (212) 389 7651
