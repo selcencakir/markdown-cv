@@ -1,23 +1,25 @@
 ---
-title: 'Your Name'
-website: http://yourwebsite.com
-street: Street address
-city: City
-postcode: Postal code
-phone: +12 (0)3456 7891011
-email: your.email@address.com
-date: 22 November 2014
+title: 'Selcen Cakir'
+website: selcencakir.github.io
+street: Boğaziçi University Department of Economics
+city: Istanbul
+postcode: 34342
+phone: +90 (212) 389 7651
+email: selcencakir1@gmail.com
+date: 10 October 2019
 ...
 
-### Personal summary
+### Academic Positions
 
-> My research interests are ... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- Sep 2018-     Assistant Professor, Bogazici University
+
 
 ### Education 
 
-- M.A.     Subject (grade), University name and location
-- B.A.     Subject (grade), University name and location
-- A Level  Subject (grade), University name and location
+- Ph.D.    Economics, University of Virginia, Charlottesville VA
+- M.A.     Economics, University of Virginia, Charlottesville VA
+- M.A.     Economics, Koc University, Istanbul
+- B.A.     Economics, TOBB ETU, Ankara
 
 ### Technical
 
